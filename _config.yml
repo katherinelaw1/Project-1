@@ -2,8 +2,8 @@ title: Katherines Blog
 description: "I like food"
 owner_name: Katherine
 github_username: katherinelaw1
-github_repo: "project-1" 
-baseurl: "/project-1"
+github_repo: "Project-1" 
+baseurl: "/Project-1"
 future: true
 remote_theme: jekyll/minima
 minima:
