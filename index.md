@@ -7,4 +7,4 @@ hide: true
 
 WELCOME TO MY BLOG!
 Hi my name is Katherine Law.
-My favorite color is pink.
+                                                                Here is a little bit about me!
