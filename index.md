@@ -14,5 +14,8 @@ A little bit more about me... I'm 14 years old and i'm chinese. My dad was born 
 It seems so cool to be born outside of America but I love California and I wouldn't trade it for anything. I love the beaches, the always sunny weather (even in the winter!) and all of my family and friends here that I wouldn't want to leave and move away from.
 Thank you so much for learning a little bit about me!!
 
-![alt ext](images/IMG_7956.jpeg)
-
+<html>
+<body>
+<img src="images/IMG_7956.jpeg">
+<body>
+<html>
