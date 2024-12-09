@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 hello!
-Creator of Student 2028
+Creator of Stdent 2028
