@@ -3,5 +3,5 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Creator of Student 2025
+hello!
+Creator of Student 2028
