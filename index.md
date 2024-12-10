@@ -9,3 +9,5 @@ hide: true
 # This blog is about my trip to Cancun over the summer of 2024!
 
 ![alt text](images/notebooks/foundation/IMG_8022.jpeg)
+
+![alt text](images/notebooks/foundation/IMG_7911.jpeg)
