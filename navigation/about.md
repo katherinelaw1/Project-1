@@ -13,5 +13,8 @@ I was born and raised in San Diego California my whole life. But I love to trave
 </a>
 
 ![alt text](../images/notebooks/foundation/b92f4d7b53d4f302ad0b15f38054f0a2.JPG)
+---
+
+### I am Chinese-- this is the flag!
 
 ![alt text](../images/notebooks/foundation/Unknown.png)

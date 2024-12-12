@@ -9,3 +9,9 @@ hide: true
 # This blog is about my trip to Cancun over the summer of 2024!
 
 ![alt text](images/notebooks/foundation/IMG_8022.jpeg)
+
+<h3> Where is Cancun? (click the picture!)</h3>    
+<!-- Link to the favorite show -->
+<a href="https://g.co/kgs/97PTzfm" style="text-decoration: none;">
+  <img src="https://i.imgur.com/UVehhBy.png" style="width: 300px; height: auto; border-radius: 10px; display: block; margin: 0 auto;">
+</a>
