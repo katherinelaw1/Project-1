@@ -10,6 +10,8 @@ hide: true
 
 ![alt text](images/notebooks/foundation/IMG_8022.jpeg)
 
+[TOOLS CHECK](https://katherinelaw1.github.io/Project-1/devops/tools/verify)
+
 <h3> Where is Cancun? (click the picture!)</h3>    
 <!-- Link to the favorite show -->
 <a href="https://g.co/kgs/97PTzfm" style="text-decoration: none;">
