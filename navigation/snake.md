@@ -123,10 +123,10 @@ permalink: /snake/
     const snakeBodyImage = new Image();
     const foodImage = new Image();
 
-    snakeHeadImage.src = '/Project-1/images/IMG_6720.jpeg'; // Your snake head image URL
-    snakeBodyImage.src = '/Project-1/images/IMG_6720.jpeg'; // Correct URL (without the broken comment)
-
+snakeHeadImage.src = '/Project-1/images/IMG_6720.jpeg'; // Your snake head image URL
+    snakeBodyImage.src = 'https://image.petmd.com/files/inline-images/fluffy-dogs-bichon-frise.jpg?VersionId=uarSEQhS4ouBaCba1kOhiUzVr21LaXUq'; // Your snake body image URL
     foodImage.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/800px-Cat_November_2010-1a.jpg'; // Your food image URL
+    
 
     // HTML Game IDs
     const SCREEN_SNAKE = 0;
