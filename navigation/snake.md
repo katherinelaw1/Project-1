@@ -142,7 +142,7 @@ snakeHeadImage.src = '/Project-1/images/IMG_6720.jpeg'; // Your snake head image
     const screen_setting = document.getElementById("setting");
 
     // Game Control
-    const BLOCK = 10; // size of block rendering
+    const BLOCK = 30; // size of block rendering
     let SCREEN = SCREEN_MENU;
     let snake;
     let snake_dir;
