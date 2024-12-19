@@ -124,7 +124,8 @@ permalink: /snake/
     const foodImage = new Image();
 
     snakeHeadImage.src = '/Project-1/images/IMG_6720.jpeg'; // Your snake head image URL
-    snakeBodyImage.src = ''; //Project-1/images/IMG_9132.jpeg'';/ Your snake body image URL
+    snakeBodyImage.src = '/Project-1/images/IMG_9132.jpeg'; // Use the correct path to your snake body image
+ Your snake body image URL
     foodImage.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/800px-Cat_November_2010-1a.jpg'; // Your food image URL
 
     // HTML Game IDs
