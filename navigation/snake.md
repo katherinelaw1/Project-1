@@ -86,7 +86,7 @@ permalink: /snake/
             <a id="setting_menu1" class="link-alert">settings</a>
         </div>
         <!-- Play Screen -->
-        <canvas id="snake" class="wrap" width="420" height="420" tabindex="1"></canvas>
+        <canvas id="snake" class="wrap" width="640" height="640" tabindex="1"></canvas>
         <!-- Settings Screen -->
         <div id="setting" class="py-4 text-light">
             <p>Settings Screen, press <span style="background-color: #42f5d4; color: #000000">space</span> to go back to playing</p>
@@ -142,7 +142,7 @@ snakeHeadImage.src = '/Project-1/images/IMG_6720.jpeg'; // Your snake head image
     const screen_setting = document.getElementById("setting");
 
     // Game Control
-    const BLOCK = 20; // size of block rendering
+    const BLOCK = 40; // size of block rendering
     let SCREEN = SCREEN_MENU;
     let snake;
     let snake_dir;
