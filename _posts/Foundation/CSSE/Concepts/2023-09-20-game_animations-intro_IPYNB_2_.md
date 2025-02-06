@@ -3,7 +3,6 @@ toc: True
 layout: post
 title: Gaming Intro
 description: An intro to game control, sprite sheets, image backgrounds, and more.
-menu: nav/game_intro.html
 permalink: /game/intro
 courses: {'csse': {'week': 7}}
 type: ccc
