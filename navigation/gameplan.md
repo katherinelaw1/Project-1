@@ -12,13 +12,11 @@ The strength that he needs in order to pass the game is 800 lb worth full body p
 ### Game Characters: 
 #### - Rachit (Before Buffed)
 Basic idea of Rachit before getting buffed:
-
-![alt text](images/gamify/IMG_3801.jpeg)
+![alt text](images/gamify/IMG_3801.png)
 
 #### - Rachit (Buffed)
 Basic idea/picure of  buffed Rachit, might be developed over time :
-
-![alt text](images/gamify/IMG_1994.png)
+![alt text](images/gamify/IMG_1994.jpeg)
 
 
 ### Background:
@@ -26,9 +24,9 @@ Basic idea/picure of  buffed Rachit, might be developed over time :
 #### Gym 
 Gym is for Rachit to become buffed by using benchpress, deadlifts and other weights. 
 Rachit would get buffed here: 
-![alt text](images/gamify/IMG_2072.jpeg)
+![alt text](images/gamify/IMG_2072.png)
 
 #### Disneyland(Sword in the Stone)
 After, there is a button, transporting Rachit to Disneyland to check if he has enough strength, if he doesn't, there would be a sign saying how he needs more strength, and if he has enough strength, it would let him go to the next stage.
 Rachit would attempt to pull out the sword here:
-![alt text](images/gamify/IMG_1469.jpeg)
+![alt text](images/gamify/IMG_1469.png)
